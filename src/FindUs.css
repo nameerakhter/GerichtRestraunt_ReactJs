@@ -1,0 +1,25 @@
+.app__wrappper_img{
+    align-items: flex-end;
+    display: flex;
+}
+
+.app__wrapper-content{
+    width: 100%;
+}
+
+
+.app__wrappper_img img{
+    margin-top: 24px;
+    /* margin-left: 657px; */
+    width: 667px;
+    height: 736px;
+
+
+}
+
+@media screen and (max-width:450px){
+    .app__wrappper_img img{
+        width: 100%;
+        height: auto;
+    }
+}
