@@ -1,4 +1,4 @@
-# Project README - Gericht Restaurant Landing Page
+# Project README - Gericht Restaurant Landing Page.
 
 <img src="https://imgtr.ee/images/2023/07/21/93cb6d951e44d6389b2a0bb307cb5c2e.png" alt="93cb6d951e44d6389b2a0bb307cb5c2e.png" border="0" />
 
